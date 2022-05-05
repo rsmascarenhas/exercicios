@@ -1,0 +1,59 @@
+
+#linha1{
+    color: antiquewhite;
+    display: block;
+    border-bottom: 1px solid black;
+}
+
+#linha2{
+    
+    float: right;
+}
+#divtexto{
+   
+    text-align: left;
+    
+}
+#inicio{
+    font-size: 4rem;
+    display: inline;
+    text-decoration:underline;
+}
+#fim{
+    font-size: 2rem;
+    display: inline;
+    
+}
+
+.card{
+    float: left;
+    width:25%;
+    padding: 15px;
+    border: none;
+}
+
+.btn:hover{
+    background-color: green;
+}
+
+.nav{
+    margin: 0 auto;
+}
+section{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+section#sobre{
+    text-align: justify;
+}
+
+section#contato{
+    width: 30%;
+    margin-left: 7.2%;
+}
+
+.input-group {
+    padding-top: 0,5rem;
+    padding-bottom: 1rem;
+}
