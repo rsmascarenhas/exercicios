@@ -49,11 +49,18 @@ section#sobre{
 }
 
 section#contato{
-    width: 30%;
-    margin-left: 7.2%;
+    width: 33%;
+    padding: 0,5%;
+    margin-left: 28.2%;    
 }
 
 .input-group {
     padding-top: 0,5rem;
     padding-bottom: 1rem;
+}
+
+#carouselId{
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 30%;
 }
